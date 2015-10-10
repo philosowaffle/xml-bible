@@ -1,6 +1,6 @@
 # xml-bible
 
-The xml-bible is adapted from the [WEB Bible](http://ebible.org/web/) which is a [Public Domain](http://ebible.org/web/copyright.htm) Bible translation.  I modified thier [USFX Format](http://ebible.org/eng-web/eng-web_usfx.zip) for easier parsing.
+The xml-bible is adapted from the [WEB Bible](http://ebible.org/web/) which is a [Public Domain](http://ebible.org/web/copyright.htm) Bible translation.  I modified their [USFX Format](http://ebible.org/eng-web/eng-web_usfx.zip) for easier parsing.
 
 ## Parsing with XPath
 
