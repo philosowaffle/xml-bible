@@ -4,6 +4,8 @@ The xml-bible is adapted from the [WEB Bible](http://ebible.org/web/) which is a
 
 The xml-bible is not meant as a resource for proper textual representation or formatting of the Biblical text.  Instead it is simply meant to be a bare-bones book/chapter/verse representation of the text.  For a more stylistically comprehensive format of the Bible look [here](http://ebible.org/usfx/Bible-encoding.htm).
 
+This branch breaks the books into separate files  as an alternative to one massive file.
+
 ## Parsing with XPath
 
 Here are a few [XPath](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1LENP_enUS639US639&ion=1&espv=2&ie=UTF-8#q=xpath) examples for parsing different types of data from the xml-bible.
