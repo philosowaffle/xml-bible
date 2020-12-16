@@ -6,6 +6,8 @@ The xml-bible is not meant as a resource for proper textual representation or fo
 
 The master branch has the entire Bible in one massive xml file.  If you would rather work with smaller files the [by_book](https://github.com/philosowaffle/xml-bible/tree/by_book) branch has the books broken out into separate files.
 
+<a href="https://www.buymeacoffee.com/philosowaffle" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Parsing with XPath
 
 Here are a few [XPath](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1LENP_enUS639US639&ion=1&espv=2&ie=UTF-8#q=xpath) examples for parsing different types of data from the xml-bible.
